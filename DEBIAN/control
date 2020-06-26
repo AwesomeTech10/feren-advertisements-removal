@@ -1,0 +1,10 @@
+Package: feren-advertisements-removal
+Version: 2020.06.0.0.0
+Architecture: all
+Maintainer: Feren OS Team <ferenos@outlook.com>
+Section: x11
+Priority: optional
+Homepage: http://ferenos.weebly.com/
+Description: Removes all advertisements placed inside Feren OS
+ Changes: Remove MOTD Advertisements
+

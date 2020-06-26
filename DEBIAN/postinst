@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Remove advertisements from the MOTD. <AwesomeTech10>
+# If we wanted, we could make our own MOTD server
+# and use it instead
+# Example: sudo sed -i 's/https:\/\/motd.ubuntu.com/ferenos.github.io\\motd/g' /etc/default/motd-news    
+sudo sed -i 's/https:\/\/motd.ubuntu.com//g' /etc/default/motd-news
+
